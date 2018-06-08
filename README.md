@@ -1,2 +1,2 @@
-# vivliostyle-formatter-issues
-Issue tracker for [Vivliostyle Formatter](http://vivliostyle.com/en/vivliostyle-formatter/)
+# versatype-issues
+Issue tracker for [VersaType products](http://trim-marks.com/).
